@@ -1,0 +1,31 @@
+date,home,away,home_goals,away_goals,home_shots,away_shots,home_sot,away_sot,home_corners,away_corners,home_fouls,away_fouls,home_yellow,away_yellow,home_red,away_red,result
+2025-08-15,Liverpool,Bournemouth,4,2,19,10,10,3,6,7,7,10,1,2,0,0,H
+2025-08-16,Aston Villa,Newcastle,0,0,3,16,3,3,3,6,13,11,1,1,1,0,D
+2025-08-16,Brighton,Fulham,1,1,10,7,4,2,4,3,16,15,3,3,0,0,D
+2025-08-16,Sunderland,West Ham,3,0,10,12,5,4,5,7,8,10,0,1,0,0,H
+2025-08-16,Tottenham,Burnley,3,0,16,14,6,4,6,5,14,8,0,0,0,0,H
+2025-08-16,Wolves,Man City,0,4,9,15,3,4,4,6,13,7,1,2,0,0,A
+2025-08-17,Chelsea,Crystal Palace,0,0,19,12,3,4,11,2,10,12,2,3,0,0,D
+2025-08-17,Nott'm Forest,Brentford,3,1,11,10,5,3,5,5,7,15,1,2,0,0,H
+2025-08-17,Man United,Arsenal,0,1,22,9,7,3,3,4,10,19,1,4,0,0,A
+2025-08-18,Leeds,Everton,1,0,21,7,3,1,7,2,6,8,0,2,0,0,H
+2025-08-22,West Ham,Chelsea,1,5,12,12,4,7,7,5,7,10,0,1,0,0,A
+2025-08-23,Man City,Tottenham,0,2,10,12,4,5,7,2,7,12,1,4,0,0,A
+2025-08-23,Bournemouth,Wolves,1,0,14,6,4,1,8,3,13,16,2,4,0,1,H
+2025-08-23,Brentford,Aston Villa,1,0,9,17,2,2,2,9,11,9,1,2,0,0,H
+2025-08-23,Burnley,Sunderland,2,0,7,9,2,1,4,3,9,5,0,1,0,0,H
+2025-08-23,Arsenal,Leeds,5,0,18,3,5,1,2,2,8,11,0,2,0,0,H
+2025-08-24,Crystal Palace,Nott'm Forest,1,1,8,9,4,1,1,3,11,11,3,3,0,0,D
+2025-08-24,Everton,Brighton,2,0,11,13,3,4,2,2,7,15,4,3,0,0,H
+2025-08-24,Fulham,Man United,1,1,13,10,4,3,9,6,12,10,1,1,0,0,D
+2025-08-25,Newcastle,Liverpool,2,3,10,5,3,4,7,1,17,15,2,3,1,0,A
+2025-08-30,Chelsea,Fulham,2,0,13,11,6,3,6,4,11,17,2,2,0,0,H
+2025-08-30,Man United,Burnley,3,2,26,6,6,3,7,1,9,9,1,5,0,0,H
+2025-08-30,Sunderland,Brentford,2,1,12,7,3,4,3,4,11,12,3,2,0,0,H
+2025-08-30,Tottenham,Bournemouth,0,1,5,20,1,6,0,8,17,13,2,4,0,0,A
+2025-08-30,Wolves,Everton,2,3,12,10,4,4,2,2,15,10,0,1,0,0,A
+2025-08-30,Leeds,Newcastle,0,0,10,8,1,2,5,5,10,15,1,1,0,0,D
+2025-08-31,Brighton,Man City,2,1,12,12,7,3,3,2,16,14,2,2,0,0,H
+2025-08-31,Nott'm Forest,West Ham,0,3,11,12,3,8,9,7,14,6,0,0,0,0,A
+2025-08-31,Liverpool,Arsenal,1,0,9,11,3,1,3,8,7,10,2,2,0,0,H
+2025-08-31,Aston Villa,Crystal Palace,0,3,13,6,4,4,10,1,7,14,2,3,0,0,A
