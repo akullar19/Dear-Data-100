@@ -16,3 +16,4 @@ The method
 `float radiusFor(int goals)` takes in the number of goals in a match as an `int`, rescales it to a pixel size (5 to 30) using `map()` and `constrain()`, and returns a `float` that the sketch uses as the dot's diameter. The sketch has two more methods that return values: `rollingAverage()` and `colourFor()`.
 What it shows so far
 Of the first 30 matches, 15 were home wins, 9 were away wins and 6 were draws, so home advantage shows up early. Home teams scored 1.43 goals a match on average against 1.17 for away teams. Only 3 matches had a red card. I chose football because I follow it and wanted to see whether home advantage appears in real data. I plan to extend this to 100 or more matches later.
+might be updated to follow the full premier league 25/26 season 
