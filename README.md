@@ -1,7 +1,8 @@
 Premier League 2025/26: the first 30 matches as dots
-A Processing sketch (#CreativeCoding) that visualises the first 30 Premier League matches of the 2025/26 season (15 to 31 August 2025). This is an early version for the Week 5 progress check-in.
+
+A Processing sketch that visualises the first 30 Premier League matches of the 2025/26 season (15 to 31 August 2025). This is an early version for the Week 5 progress check-in.
 Data
-Source: football-data.co.uk - manually entereds
+Source: football-data.co.uk - manually entered
 Observations: 30 matches (the first 30 of the season, in date order).
 Columns used: date, teams, goals, shots, shots on target, corners, fouls, yellow and red cards, result.
 How the data maps to the visual
