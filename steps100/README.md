@@ -22,10 +22,13 @@ A Processing sketch (#CreativeCoding, Dear Data 100) that draws my daily step co
   - `isHovered()` and `isWeekend()` inside `Day` return `boolean` values.
 
 ## What it shows
-
+I plotted my daily steps for 100 days, from 17 August to 24 November 2026. My average day was about 6,300 steps, with a best of 19,672 on 20 November and a worst of 457 on 1 October. Twenty of the 100 days reached 10,000 steps or more, but 28 days were under 3,000, so my activity is very uneven rather than steady. Weekdays averaged about 6,700 steps and weekends about 5,300, which surprised me because I expected weekends to be more active. I chose steps because my phone records it automatically, so it shows a real pattern of my life that I wouldn't otherwise notice.
 
 ## Creativity (SCAMPER)
-
+- **Substitute:** I used a spiral instead of a normal bar or line chart, so 100 days fit in a compact shape.
+- **Combine:** each dot combines three things: size and colour for steps, and a ring for weekends.
+- **Reverse:** the first day is in the centre and the newest days are on the outside, so the picture grows outwards as time goes on.
+- **Modify:** I made one number, steps, show in two ways (size and colour) so big days stand out instantly.
 
 
 ## Run it
